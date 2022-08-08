@@ -1,2 +1,2 @@
 # Mijja-College
-This website is live at http://freshteacher.tech/mijja-college/
+This website is live at https://freshteacher.tech/mijja-college/
